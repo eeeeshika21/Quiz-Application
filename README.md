@@ -21,4 +21,6 @@ Java AWT: For handling basic GUI components and event handling.
 │   ├── quiz.jpg
 │   ├── score.jpg
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/6a40cc8e-b574-4f8d-b619-4240344e32b3)
 
