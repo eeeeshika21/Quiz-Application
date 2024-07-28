@@ -11,12 +11,16 @@ Java Swing: For creating a rich and interactive graphical user interface.
 Java AWT: For handling basic GUI components and event handling.
 
 ## Folder Structure
-
+├── bin/
+│   ├── Login.class
+│   ├── Quiz.class
+│   ├── Rules.class
+│   ├── Score.class
 ├── src/
-│   ├── JLogin.java
-│   ├── JQuiz.java
-│   ├── JRules.java
-│   ├── JScore.java
+│   ├── Login.java
+│   ├── Quiz.java
+│   ├── Rules.java
+│   ├── Score.java
 ├── icons/
 │   ├── login.jpg
 │   ├── quiz.jpg
