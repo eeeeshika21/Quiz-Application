@@ -1,18 +1,25 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+It is an interactive quiz application developed using Java Swing and AWT. It offers a seamless user experience with a graphical interface that makes learning fun and engaging.
+
+Features
+Multiple-choice questions: Test your knowledge across various subjects.
+Timed quizzes: Challenge yourself with time-bound questions.
+Score tracking: Keep track of your performance and progress.
+Technologies Used
+Java Swing: For creating a rich and interactive graphical user interface.
+Java AWT: For handling basic GUI components and event handling.
 
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+├── src/
+│   ├── JLogin.java
+│   ├── JQuiz.java
+│   ├── JRules.java
+│   ├── JScore.java
+├── icons/
+│   ├── login.jpg
+│   ├── quiz.jpg
+│   ├── score.jpg
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
